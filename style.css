@@ -4,3 +4,6 @@ body {
 .cangermen {
  color: white;
 }
+.link {
+    justify-content: flex-end;
+}
