@@ -21,3 +21,64 @@ ul{
     left: -89px;
     top: 0px;
 }
+
+.container {
+    margin: 0 auto;
+    padding: .5rem;
+    width: 1320px;
+   
+ }
+ .row {
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+    
+ }
+ [class^="column"] {
+   padding: 0 .5rem;
+ }
+.column {
+    flex: 1 0 0;
+  
+}
+.column-auto {
+   flex: 0 0 auto;
+}
+
+.column-1 {
+   flex: 0 0 8.333333%;
+   
+}
+.column-2 {
+    flex: 0 0 16.666666%;
+ }
+ .column-3 {
+    flex: 0 0 24.999999%;
+ }
+ .column-4 {
+    flex: 0 0 33.333333%;
+ }
+ .column-5 {
+    flex: 0 0 41.6666666%;
+ }
+ .column-6 {
+    flex: 0 0 49.9999999%;
+ }
+ .column-7 {
+    flex: 0 0 58.2222222%;
+ }
+ .column-8 {
+    flex: 0 0 66.6666666%;
+ }
+ .column-9 {
+    flex: 0 0 74.9999999%;
+ }
+ .column-10 {
+    flex: 0 0 83.111111%;
+ }
+ .column-11 {
+    flex: 0 0 92.000001%;
+ }
+ .column-12 {
+     flex: 0 0 100%;
+ }
