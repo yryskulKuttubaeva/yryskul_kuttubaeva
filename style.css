@@ -7,3 +7,10 @@ body {
 .link {
     justify-content: flex-end;
 }
+.img {
+    position: static;
+    width: 744px;
+    height: 681px;
+    left: -89px;
+    top: 0px;
+}
