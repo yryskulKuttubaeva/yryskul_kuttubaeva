@@ -5,7 +5,7 @@ body {
  color: white;
 }
 .link {
-    justify-content: flex-end;
+    justify-content: space-between;
 }
 .img {
     position: static;
