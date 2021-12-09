@@ -27,11 +27,7 @@ a {
 }
 .img {
     float:right;
-    position: static;
-    width: 744px;
-    height: 681px;
-    left: -89px;
-    top: 0px;
+   
 }
 
 .container {
