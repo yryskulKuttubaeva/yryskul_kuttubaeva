@@ -1,18 +1,24 @@
 body {
     background-color: rgb(80, 80, 172);
 }
+* {
+   box-sizing: border-box;
+}
 .cangermen {
  color: white;
 }
-.link {
-    justify-content: space-between;
- 
+.navbar ul li {
+   display: inline;
+   list-style-type: none;
 }
-ul{
-    list-style-type: none;
+
+a {
+   padding: 5px;
+   color: white;
 }
-.link ul li {
-   display: flex;
+.navbar ul {
+   margin: 0;
+   padding: 0;
 }
 .img {
     position: static;
