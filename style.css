@@ -7,6 +7,11 @@ body {
 .cangermen {
  color: white;
 }
+.navbar {
+   display: flex;
+   justify-content: space-between;
+   
+}
 .navbar ul li {
    display: inline;
    list-style-type: none;
