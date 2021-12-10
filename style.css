@@ -27,9 +27,11 @@ a {
 }
 .img {
     float:right;
-   
+    margin: -115px;
 }
-
+.link{
+   margin: center;
+}
 .container {
     margin: 0 auto;
     padding: .5rem;
