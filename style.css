@@ -1,5 +1,12 @@
 body {
+   margin: 0;
+}
+header {
    background-image: url("./images/background.svg");
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
 }
 * {
    box-sizing: border-box;
@@ -16,7 +23,6 @@ body {
    display: inline;
    list-style-type: none;
 }
-
 a {
    padding: 5px;
    color: white;
@@ -27,7 +33,7 @@ a {
 }
 .img {
     float:right;
-    margin: -115px;
+    top: 0;
 }
 .link{
    margin: center;
