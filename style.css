@@ -32,16 +32,44 @@ a {
    margin: 0;
    padding: 0;
 }
+.vector {
+   padding: 5px;
+}
 .img {
-    float:right;
-    top: 0;
+   float: right;
+   top: -250px;
 }
-.text-left {
-   text-align: justify;
-}
-.link{
-   margin: center;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .container {
     margin: 0 auto;
     padding: .5rem;
