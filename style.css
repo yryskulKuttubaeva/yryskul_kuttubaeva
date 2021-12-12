@@ -1,7 +1,7 @@
 body {
    margin: 0;
 }
-header {
+nav {
    background-image: url("./images/background.svg");
    height: 100vh;
    background-size: cover;
@@ -11,6 +11,7 @@ header {
 * {
    box-sizing: border-box;
 }
+
 .cangermen {
  color: white;
 }
@@ -34,6 +35,9 @@ a {
 .img {
     float:right;
     top: 0;
+}
+.text-left {
+   text-align: justify;
 }
 .link{
    margin: center;
