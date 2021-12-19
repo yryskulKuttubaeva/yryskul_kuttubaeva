@@ -1,75 +1,61 @@
-body {
+body{
    margin: 0;
-}
-nav {
-   background-image: url("./images/background.svg");
-   height: 100vh;
-   background-size: cover;
-   background-position: center;
-   background-repeat: no-repeat;
+ 
 }
 * {
    box-sizing: border-box;
-}
 
-.cangermen {
- color: white;
 }
-.navbar {
+.navbar .div {
    display: flex;
    justify-content: space-between;
+   background-image: url(./images/background.svg);
    
 }
-.navbar ul li {
-   display: inline;
-   list-style-type: none;
+.div ul li {
+ display: inline;
+  
+  
+  
 }
-a {
+.div ul li a {
+   text-decoration: none;
+   padding: 0 10px;
+   margin-top: -20px;
+ 
+}
+.div ul li img {
    padding: 5px;
-   color: white;
 }
-.navbar ul {
-   margin: 0;
-   padding: 0;
+.capgemen {
+  color: white;
+  top: -10px;
 }
-.vector {
-   padding: 5px;
-}
+ h3{
+   font-family: 'Montserrat';
+   width: 700px;
+   font-style: normal;
+   font-size: 14px;
+   font-weight: bold;
+   line-height: 24px;
+   letter-spacing: 0.1px;
+} 
 .img {
-   float: right;
-   top: -250px;
+   float: left;
+   position: static;
+   width: 744px;
+   height: 681px;
+   left: -89px;
+   top: 0px;
+ 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.h3 {
+   position: absolute;
+   width: 139px;
+   height: 32px;
+   left: 0;
+   top: 13px;
+}
 .container {
     margin: 0 auto;
     padding: .5rem;
