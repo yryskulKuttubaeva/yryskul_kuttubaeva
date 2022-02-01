@@ -24,9 +24,10 @@ a{
     background-color: rgba(241, 241, 181, 0.24);
     border-radius: 13px;
 }
-img {
-    /* border-radius: 100%; */
-}
+ 
+/* img {
+    border-radius: 100%;
+} */
 ul {
     list-style-type: none;
 }
@@ -46,6 +47,7 @@ ul {
 
 .col-6 {
     flex: 50%;
+    
 }
 .girl {
     left: -89px;
@@ -66,8 +68,19 @@ button {
 }
 .bg-1 .mainBtn1 .second{
     background-color: rgba(177, 54, 9, 0.404);
+    
+    background: #FFA62B;
+    width: 145px;
+    height: 48px;
+    border-radius:37px;
+    padding: 10px, 36px;
 }
-
+.second2{
+    width: 140px;
+    height: 48px;
+    border-radius: 37px;
+    padding: 10px, 36px;
+}
 .bg-2 {
     background-color: #3255DD;
 }
