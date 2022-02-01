@@ -37,7 +37,7 @@ ul {
 }
 
 .bg-1 {
-    background-color: rgb(79, 153, 221);
+    background-color: rgb(16, 79, 138);
 }
 .row {
     display: flex;
@@ -83,6 +83,8 @@ button {
 }
 .bg-2 {
     background-color: #3255DD;
+    width: 100%;
+    height: 539px;
 }
 .bg-2 .conteiner {
     text-align: center;
@@ -93,12 +95,12 @@ button {
 
 .bg-2 .middleBlock {
     background-color: #00A0C1;
-    width: 344px;
+    width: 325px;
     height: 142px;
 }
 .bg-2 .first, .third {
     background-color: azure;
-    width: 344px;
+    width: 325px;
     height: 142px;
 }
 .bg-2 .first p, .third p {
